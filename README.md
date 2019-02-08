@@ -30,4 +30,4 @@ Desarollado por
 > * _José Angel Ramírez Cantú_  (FIME/UANL)
 > * _Juan Pablo Guerrero Leal_ (FIME/UANL)
 > * _Johan Alejandro Cruz Chávez_ (FIME/UANL)
-> * _Bryan Antonio Perez Avalos_ (FIME/UANL)
+> 
