@@ -32,7 +32,7 @@
     "angularfire2": "^5.0.1",
     "angularfire4": "^1.0.4",
     "apk": "1.2.0",
-    "browserslist": "^4.1.1",
+    "browserslist": "^4.16.5",
     "cordova-android": "^7.1.1",
     "cordova-plugin-badge": "0.8.7",
     "cordova-plugin-calendar": "5.1.2",
